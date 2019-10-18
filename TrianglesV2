@@ -1,0 +1,31 @@
+/*Brendan 
+Professor Brown
+10/16/2019
+A program to determine if, based on 3 sides, the values make a triangle and provides the perimeter.
+*/
+
+import java.util.*;
+
+public class TrianglesV2 {
+   public static void main (String[] args) {
+   
+   Scanner in = new Scanner(System.in);
+   
+   System.out.println("Please enter the first side: ");
+   int side1 = in.nextInt();
+   
+   System.out.println("Please enter the second side: ");
+   int side2 = in.nextInt();
+   
+   System.out.println("Please enter the third side: ");
+   int side3 = in.nextInt();
+   
+   System.out.println("Do the sides form a triangle: ");
+      if (side1 + side2 > side3 && side1 + side3 > side2 && side2 + side3 > side1) {
+         System.out.println("Yes, it forms a triangle. The perimeter of this triangle is: " + (side1 + side2 +side3));
+      } else {
+         System.out.println("No, it does not form a triangle because of the triangle inequality."); 
+  
+   }  
+ }
+}
