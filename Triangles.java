@@ -1,15 +1,26 @@
-public class Triangles {
+//Brendan O'Shaughnessy
+//Creating Two Triangles Patterns
+
+public class Triangles { //Class name is Triangles
+    public static void main(String[] args) { 
+        int rows = 5; //How many rows I want 
+        for(int x = 1; x <= rows; ++x) { // x = 1; rows = x; Increase x by 1
+            for(int y = 1; y <= x; ++y) { // y = 1; x = y; Increase y by 1
+                System.out.print("# "); // Print the character '#'
+            }
+            System.out.println("\n \t ");
+        }
+    }
+}
+
+ class Triangles2 {
     public static void main(String[] args) {
         int rows = 5;
-        for(int i = 1; i <= rows; ++i) {
-            for(int j = 1; j <= i; ++j) {
-                System.out.print("* ");
+        for(int x = 1; x <= rows; ++x) {
+            for(int y = 1; y <= x; ++y) {
+                System.out.print("# ");
             }
-            System.out.println("\n");
-            System.out.print("\t");
-            
-            }
-         }
-      }
- 
-     
+            System.out.println();
+        }
+    }
+}
