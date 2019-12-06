@@ -1,4 +1,3 @@
-//Brendan O'Shaughnessy
 //10-2-19
 //Professor Brown
 //A program that uses user input to output a line of text
