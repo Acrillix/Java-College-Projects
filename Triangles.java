@@ -1,5 +1,6 @@
-//Brendan O'Shaughnessy
 //Creating Two Triangles Patterns
+//Issue: Calls two main methods, does not call second class Triangles2
+//Does successfully print one triangle
 
 public class Triangles { //Class name is Triangles
     public static void main(String[] args) { 
