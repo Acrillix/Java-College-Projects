@@ -1,4 +1,3 @@
-//Brendan O'Shaughnessy
 //Professor Brown
 //9-26-2019
 //A program to compute the BMI based on weight and height rounded to the hundreth decimal place
