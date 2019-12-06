@@ -1,5 +1,4 @@
 // Program used in chapter 2 for debugging
-// Brendan O'Shaughnessy
 // Sept 2019
 // I debugged the program; I actually found it easier to rewrite it myself to find the issues. 
 
