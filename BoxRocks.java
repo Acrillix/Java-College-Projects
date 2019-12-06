@@ -1,4 +1,3 @@
-//Brendan O'Shaughnessy
 //10-4-2019
 //Professor Brown
 //A program to figure out how many boxes you need depending on amount of rocks
