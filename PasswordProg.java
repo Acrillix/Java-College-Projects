@@ -6,6 +6,7 @@ CSC 103
 // this program will not work correctly until the methods are complete!
 
 // you should also modify this so that the menu options are exactly the same as the specs (on the pdf docoument)
+//This program is not complete and received 5/10
 
 import java.util.Scanner;
 import java.util.Random;
