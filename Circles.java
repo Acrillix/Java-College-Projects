@@ -1,4 +1,3 @@
-//Brendan O'Shaughnessy
 //10-2-2019
 //Professor Brown
 //A program to calculate the area, circumference, and then round the area
